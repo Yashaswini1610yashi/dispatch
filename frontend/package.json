@@ -1,0 +1,29 @@
+{
+  "name": "dispatchgrid-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "axios": "^1.21.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^7.18.5",
+    "recharts": "^2.15.0",
+    "typescript": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/react-router-dom": "^5.3.3"
+  }
+}
