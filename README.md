@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DispatchGrid — Intelligent Workforce Scheduling & Recovery Engine
 
 A runnable full-stack hackathon implementation focused on the company's core evaluation: explainable scheduling, constraint safety, disruption recovery, persistent data, audit history, and a functional operations dashboard.
@@ -75,3 +76,6 @@ The lowest-cost feasible candidate is selected. This is a heuristic, not a claim
 
 ## Project structure
 See `docs/ARCHITECTURE.md` and `docs/DATABASE.md`.
+=======
+# dispatch
+>>>>>>> 7d15d1766817d6fad71a799379fbeafa9ac7e540
